@@ -1,8 +1,11 @@
-# Hi There! I am Sai Krishna Varakala!
+# Hi There! I am Sai Prashanthi Varakala!
 
 ### Portfolio
     To Run: npm start
-    To Build: npm run build
+    To Build:
+        export NODE_OPTIONS=--openssl-legacy-provider
+        npm run build
+
     To Deploy: npm run deploy
 
     To Test Locally: npm run build
