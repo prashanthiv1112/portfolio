@@ -11,3 +11,5 @@
     To Test Locally: npm run build
     To Serve Locally: npm install -g serve
                       serve -s build
+    export NODE_OPTIONS=--openssl-legacy-provider
+    npm start

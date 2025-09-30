@@ -1,37 +1,26 @@
 {
 	"main": {
-		"name": "Sai Prashanthi V",
-		"occupation": " ",
-		"description": "Doctor | Hobbyist Photographer",
+		"name": "Dr. Prashanthi",
+		"occupation": " Full time Doctor,Part time Photographer",
+		"description": "Doctor | Hobbyist Photographer | Artist ",
 		"image": "profilepic.jpeg",
-		"bio": "Hi there! I am Sai Krishna Varakala! I am a Computer Science graduate and an experienced Software Engineer. I am passionate about Full Stack applications. Software development has been my area of interest ever since I graduated from high school. I am passionate to solve challenging problems in the field of software engineering by deriving key insights about what the customer requirements are by adding new dimensions to my ability to think. My expertise lies in building highly secured enterprise class applications. I have previously served as Graduate Research Associate at Watson Institute for Systems Excellence (WISE). Prior to joining Binghamton University, I have worked at Infosys Limited as Systems Engineer. I am curious and committed to being a team player and contributing to the role in a dedicated and structured approach using my problem-solving skills.",
+		"bio": "I’m Sai Prashanthi Varakala, M.B.B.S., a physician trained at Osmania Medical College, India, with diverse clinical experience across India and the United States. My journey in medicine has taken me from caring for patients in rural India as a Duty Medical Officer to gaining hands-on experience in U.S. hospitals such as AdventHealth, HCA Houston Healthcare, Centinela Hospital, and West Anaheim Medical Center. I’ve cultivated a strong foundation in evidence-based internal medicine, clinical reasoning, and compassionate care. Beyond the wards, I serve as a Quality Improvement Lead and Tele-Primary Care Physician at Sanjeevani E-Clinic, where I work to expand access to affordable healthcare in underserved communities. My academic curiosity extends to research, with peer-reviewed publications in Cureus and Fortune Journals on topics ranging from artificial intelligence in multimorbidity to health disparities in diabetes. Creativity keeps me balanced — whether through sketching, photography, or community engagement as a CPR trainer and medical conference organizer. My goal is to blend clinical skill with empathy, using every patient interaction as an opportunity to learn, heal, and lead with purpose.",
 		"contactmessage": "Get in touch with me!",
-		"email": "varakalaasaikrishna@gmail.com",
-		"phone": "+1 8144225558",
+		"email": "saiprashanthi.varakala11@gmail.com",
+		"phone": "+91 7731856722",
 		"address": {
 			"street": "",
-			"city": "Dallas",
-			"state": "Texas",
-			"zip": "75039"
+			"city": "Hyderabad",
+			"state": "Telengana",
+			"zip": "500063"
 		},
 		"website": "https://www.papareact.com/course",
-		"resumedownload": "Sai_Krishna_Varakala_Resume.pdf",
+		"resumedownload": "Sai_Prashanthi_Varakala.pdf",
 		"social": [
 			{
 				"name": "linkedin",
-				"url": "https://www.linkedin.com/in/saikrishnavarakala/",
+				"url": "https://www.linkedin.com/in/prashanthivarakala/",
 				"className": "fa fa-linkedin"
-			},
-
-			{
-				"name": "github",
-				"url": "https://github.com/VCrishna/",
-				"className": "fa fa-github"
-			},
-			{
-				"name": "Leetcode",
-				"url": "https://leetcode.com/u/KrishnaaV/",
-				"className": "fa fa-code"
 			}
 		]
 	},
@@ -39,10 +28,10 @@
 		"skillmessage": "My Programming Language Proficiency",
 		"education": [
 			{
-				"school": "Binghamton University - State University of New York",
-				"degree": "Master of Science, Computer Science",
-				"description": "December 2023",
-				"GPA": "3.8/4.0"
+				"school": "Osmania Medical College",
+				"degree": "MBBS",
+				"description": "April 2024",
+				"GPA": "First Class"
 			}
 		],
 
@@ -108,25 +97,25 @@
 		],
 		"skills": [
 			{
-				"name": "Java",
+				"name": "Clinical Reasoning and Patient Centered Care",
 				"level": "100%"
 			},
 			{
-				"name": "Python"
+				"name": "EMR proficiency (Epic, eClinicalWorks, MedTech)"
 			},
 			{
-				"name": "NodeJS"
+				"name": "History taking & physical examination"
 			},
 			{
-				"name": "Javascript",
+				"name": "Adaptability across global healthcare settings",
 				"level": "100%"
 			},
 			{
-				"name": "Angular",
+				"name": "Health education & community outreach",
 				"level": "100%"
 			},
 			{
-				"name": "ReactJs",
+				"name": "Teamwork & interdisciplinary collaboration",
 				"level": "100%"
 			},
 			{

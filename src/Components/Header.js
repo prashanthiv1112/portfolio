@@ -39,7 +39,7 @@ const Header = ({ data }) => {
 							About
 						</a>
 					</li>
-					<li>
+					{/* <li>
 						<a className="smoothscroll" href="#resume">
 							Resume
 						</a>
@@ -48,7 +48,7 @@ const Header = ({ data }) => {
 						<a className="smoothscroll" href="#portfolio">
 							My Projects
 						</a>
-					</li>
+					</li> */}
 					<li>
 						<a className="smoothscroll" href="#MyGallery">
 							My Gallery
